@@ -14,4 +14,4 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Yolo Only Live Once
 
-https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=radical
+![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=dark)
