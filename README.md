@@ -14,16 +14,16 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Yolo Only Live Once
 
-<!-- ![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true) -->
+![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merko)](https://github.com/Phavylolo/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=github-readme-stats&theme=merko)](https://github.com/Phavyolo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=https://github.com/Phavyolo/junit&theme=merko)](https://github.com/Phavyolo/github-readme-stats)
 
-<a href="https://github.com/Phavyolo/github-readme-stats">
+<!-- <a href="https://github.com/Phavyolo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true" />
-</a>
+</a> -->
 
-<a href="https://github.com/Phavyolo/convoychat">
+<!-- <a href="https://github.com/Phavyolo/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=convoychat" />
-</a>
+</a> -->
