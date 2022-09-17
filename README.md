@@ -7,18 +7,16 @@
 
 - 🔭 I’m currently working on flutter applications
 - 🌱 I’m currently learning java
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 👯 I’m looking to collaborate on java projects
 - 💬 I code
 - 📫 How to reach me: phavyolo@gmail.com
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Yolo Only Live Once
 
 ![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merko)](https://github.com/Phavylolo/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=https://github.com/Phavyolo/junit&theme=merko)](https://github.com/Phavyolo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://github.com/Phavyolo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true" />
