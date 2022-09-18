@@ -22,6 +22,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=mockito&theme=merko)](https://github.com/Phavyolo/mockito)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko)](https://github.com/Phavyolo/junit)
+
 <!-- <a href="https://github.com/Phavyolo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true" />
 </a> -->
