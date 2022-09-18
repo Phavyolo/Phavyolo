@@ -24,6 +24,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko)](https://github.com/Phavyolo/junit) -->
 
+div {  
+  border: 3px solid blue;  
+  padding-left: 75px;  
+  background-color: yellow;  
+}  
+
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko" />
