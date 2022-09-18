@@ -12,20 +12,9 @@
 - 📫 How to reach me: phavyolo@gmail.com
 - ⚡ Fun fact: Yolo Only Live Once
 
-<!-- ![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true)
+![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merko)](https://github.com/Phavylolo/github-readme-stats) -->
-<br>
-<div>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true" />
-</a>
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merko" />
-</a>
-</div>
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merko)](https://github.com/Phavylolo/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko)](https://github.com/Phavyolo/functional-programming-with-java)
 
@@ -35,7 +24,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko)](https://github.com/Phavyolo/junit) -->
 
-<div>
+
 <a href="https://github.com/Phavyolo/functional-programming-with-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko" />
 </a>
@@ -53,6 +42,6 @@
 <a href="https://github.com/Phavyolo/junit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko" />
 </a>
-</div>
+
 
 
