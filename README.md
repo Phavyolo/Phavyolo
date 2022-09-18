@@ -18,9 +18,10 @@
 
 <div>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merkot" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merko" />
 </a>
 </div>
+<br>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko)](https://github.com/Phavyolo/functional-programming-with-java)
 
