@@ -18,6 +18,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko)](https://github.com/Phavyolo/functional-programming-with-java)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=simple_calculator_with_getx&theme=merko)](https://github.com/Phavyolo/simple_calculator_with_getx)
+
+
+
 <!-- <a href="https://github.com/Phavyolo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true" />
 </a> -->
