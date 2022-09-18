@@ -16,6 +16,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merko)](https://github.com/Phavylolo/github-readme-stats)
 
+<div>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merkot" />
+</a>
+</div>
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko)](https://github.com/Phavyolo/functional-programming-with-java)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=simple_calculator_with_getx&theme=merko)](https://github.com/Phavyolo/simple_calculator_with_getx)
@@ -24,31 +30,22 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko)](https://github.com/Phavyolo/junit) -->
 
-div {  
-  border: 3px solid blue;  
-  padding-left: 75px;  
-  background-color: yellow;  
-}  
-
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Phavyolo/functional-programming-with-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko" />
 </a>
 
-<a href="https://github.com/Phavyolo/github-readme-stats">
+<a href="https://github.com/Phavyolo/simple_calculator_with_getx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=simple_calculator_with_getx&theme=merko" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Phavyolo/mockito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=mockito&theme=merko" />
 </a>
 
-<a href="https://github.com/Phavyolo/github-readme-stats">
+<a href="https://github.com/Phavyolo/junit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko" />
 </a>
 </div>
 
 
-<!-- <a href="https://github.com/Phavyolo/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=convoychat" />
-</a> -->
