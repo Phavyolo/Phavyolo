@@ -32,6 +32,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=simple_calculator_with_getx&theme=merko" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=mockito&theme=merko" />
+</a>
+
+<a href="https://github.com/Phavyolo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko" />
+</a>
+
 <!-- <a href="https://github.com/Phavyolo/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=convoychat" />
 </a> -->
