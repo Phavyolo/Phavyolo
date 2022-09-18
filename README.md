@@ -24,6 +24,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko)](https://github.com/Phavyolo/junit) -->
 
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko" />
 </a>
@@ -39,6 +40,8 @@
 <a href="https://github.com/Phavyolo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko" />
 </a>
+</div>
+
 
 <!-- <a href="https://github.com/Phavyolo/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=convoychat" />
