@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on flutter applications
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on java projects
-- 💬 I code
 - 📫 How to reach me: phavyolo@gmail.com
 - ⚡ Fun fact: Yolo Only Live Once
 
