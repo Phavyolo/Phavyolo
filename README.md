@@ -47,11 +47,11 @@
 <br>
 
 <a href="https://github.com/Phavyolo/decentralized_bank_dapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=mockito&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=decentralized_bank_dapp&theme=merko" />
 </a>
 
 <a href="https://github.com/Phavyolo/bmi_calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=bmi_calculator&theme=merko" />
 </a>
 
 
