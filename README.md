@@ -50,9 +50,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=mockito&theme=merko" />
 </a>
 
-<!-- <a href="https://github.com/Phavyolo/junit">
+<a href="https://github.com/Phavyolo/bmi_calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko" />
-</a> -->
+</a>
 
 
 
