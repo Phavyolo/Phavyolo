@@ -24,6 +24,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=junit&theme=merko)](https://github.com/Phavyolo/junit) -->
 
+### 📌 Pinned 
 
 <a href="https://github.com/Phavyolo/functional-programming-with-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko" />
