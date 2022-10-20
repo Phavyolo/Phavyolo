@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning some advanced java stuffs
 - 👯 I’m looking to collaborate on java projects
 - 📫 How to reach me: phavyolo@gmail.com
-- ⚡ Fun fact: Yolo Only Live Once /***recursive 😅***/
+- ⚡ Fun fact: Yolo Only Live Once /*****recursive 😅*****/
 
 ![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true)
 
