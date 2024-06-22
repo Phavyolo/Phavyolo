@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on flutter applications
-- 🌱 I’m currently learning some advanced java stuffs
+- 🌱 I’m currently learning some advanced java stuff
 - 👯 I’m looking to collaborate on java projects and flutter projects
 - 📫 How to reach me: phavyolo@gmail.com
 - ⚡ Fun fact: Yolo Only Live Once /**\*\**recursive 😅***\*\*/
